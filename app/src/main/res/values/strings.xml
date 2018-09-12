@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleMapTakingGPS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navagation_drawer">NavagationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="please_enter_email">please_enter_place name</string>
+    <string name="place_latitude_no">Place Latitude No</string>
+    <string name="place_longitude_no">Place Longitude No</string>
+    <string name="save_place">Save Place</string>
+</resources>
